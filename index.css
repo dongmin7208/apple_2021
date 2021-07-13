@@ -49,6 +49,7 @@ main {
 }
 .main__product--TF {
     width: 100%;
+    opacity: 0.8;
 }
 .product__img--1 {
     margin-bottom: 50px;
